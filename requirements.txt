@@ -1,6 +1,8 @@
 numpy==1.20.1
 opencv_python_headless==4.5.4.60
-opencv-contrib-python
+ffmpeg 
+libsm6 
+libxext6
 Pillow==9.1.0
 torch==1.6.0
 torchvision==0.7.0
