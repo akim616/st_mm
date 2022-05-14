@@ -3,7 +3,7 @@ opencv_python_headless==4.5.4.60
 Pillow==9.1.0
 torch==1.6.0
 torchvision==0.7.0
-mmcv-full==latest+torch1.5.0+cu101 -f https://openmmlab.oss-accelerate.aliyuncs.com/mmcv/dist/index.html
+mmcv-full==1.5.0+torch1.5.0+cu101 -f https://openmmlab.oss-accelerate.aliyuncs.com/mmcv/dist/index.html
 mmdet===2.21.0
 mmocr==0.6.0
 streamlit==1.4.0
