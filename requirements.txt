@@ -3,7 +3,7 @@ opencv_python_headless==4.5.5.62
 Pillow==9.1.0
 torch==1.6.0
 torchvision==0.7.0
-mmcv-full==1.0.5
+mmcv-full==1.5.0
 mmdet===2.24.1
 mmocr==0.6.0
 streamlit==1.4.0
