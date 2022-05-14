@@ -1,2 +1,2 @@
 libgl1-mesa-glx
-mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.6.0/index.html
+mmcv-full 
