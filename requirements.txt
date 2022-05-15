@@ -5,5 +5,5 @@ torch==1.6.0
 torchvision==0.7.0
 mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.6.0/index.html
 mmdet===2.21.0
--e https://github.com/open-mmlab/mmocr.git
+git+ssh://git@github.com/open-mmlab/mmocr.git#egg=oncrawl_api
 streamlit==1.4.0
