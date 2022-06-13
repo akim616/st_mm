@@ -28,5 +28,5 @@ pytest-runner
 ubelt
 xdoctest >= 0.10.0
 yapf
-git+git https://github.com/open-mmlab/mmocr.git
+git+https://github.com/open-mmlab/mmocr.git
 streamlit==1.4.0
