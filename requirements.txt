@@ -4,7 +4,7 @@ Pillow==9.1.0
 torch==1.6.0
 torchvision==0.7.0
 git+https://github.com/open-mmlab/mmcv.git
-mmdet===2.21.0
+git+https://github.com/open-mmlab/mmdetection.git
 pyclipper
 torch>=1.1
 imgaug
