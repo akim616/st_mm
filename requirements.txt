@@ -17,5 +17,16 @@ pyclipper
 pycocotools
 rapidfuzz
 scikit-image
+asynctest
+codecov
+flake8
+isort
+kwarray
+pytest
+pytest-cov
+pytest-runner
+ubelt
+xdoctest >= 0.10.0
+yapf
 mmocr==0.6.0
 streamlit==1.4.0
